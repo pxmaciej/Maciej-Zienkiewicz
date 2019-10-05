@@ -1,0 +1,27 @@
+Inicjalizacja katalogu repozytorium
+Należy utworzyć katalog repozytorium, przykładowo w następujący sposób:
+• cd / - przechodzi do głównego katalogu, tutaj C:
+• mkdir ppo - tworzy katalog ppo
+• cd ppo - przechodzi do katalogu ppo
+• mkdir 123456, gdzie 123456 to numer indeksu - tworzy katalog 123456
+• cd 123456 - przechodzi do katalogu 123456
+
+
+Inicjalizacja repozytorium
+Należy zainicjować repozytorium w następujący sposób (wewnątrz pustego katalogu projektu):
+• git init - inicjuje repozytorium
+• git remote add origin https://bitbucket.org/krewak/pwsz.git - dodaje połączenie do serwera;
+oczywiście należy podać adres do swojego repozytorium
+• git pull origin master - ściąga wszystkie ewentualne zmiany
+• git status - pokazuje stan repozytorium
+
+
+ Wprowadzanie zmian do repozytorium
+Wprowadzanie zmian można przeprowadzić następująco:
+• touch readme.md - tworzy plik
+• proszę wpisać w utworzonym pliku swój numer indeksu, email studencki, adres repozytorium oraz imię i
+nazwisko
+• git add . - (kropka po słowie add oznacza, że wybieramy wszystkie pliki) dodaje do repozytorium wszystkie pliki
+• git status - pokazuje stan repozytorium
+• git commit -am "readme" - dodaje commit o tytule readme
+• git push origin master - przesyła commity na serwer
