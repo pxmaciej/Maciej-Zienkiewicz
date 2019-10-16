@@ -15,13 +15,14 @@ class Student {
 	public String studentNames;
 	public String studentSurnames;
 	public boolean studentExist;
-	public String omo4lkj;
+	public String omo4lkjk;
 
 	public void setStudentNo(String studentNo) {
 		this.studentNo = studentNo;
 	}
 		
 	public String getStudentNo() {
+	
 		return this.studentNo;
 	}
 	public void setStudentNames(int random){
