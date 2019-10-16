@@ -15,7 +15,7 @@ class Student {
 	public String studentNames;
 	public String studentSurnames;
 	public boolean studentExist;
-	public String om;
+	public String omo4;
 
 	public void setStudentNo(String studentNo) {
 		this.studentNo = studentNo;
