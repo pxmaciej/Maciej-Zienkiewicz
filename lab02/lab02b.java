@@ -9,13 +9,14 @@ class Parameters{
 	public boolean exist;
 
 }
+
 class Student {
 	Parameters p = new Parameters();
 	public String studentNo;
 	public String studentNames;
 	public String studentSurnames;
 	public boolean studentExist;
-	public String omo4lkjk;
+	
 
 	public void setStudentNo(String studentNo) {
 		this.studentNo = studentNo;

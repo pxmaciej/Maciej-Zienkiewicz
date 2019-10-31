@@ -140,6 +140,23 @@ class Board {
 		}
 	}
 
+
+	public void chceckTurn(int turns){
+		if(turns <=0){
+			Log.info("Your game never happened");
+			System.exit(0);
+		}
+	}
+
+	public void checkBoard(int board){
+		if(board <=0){
+			Log.info("What kind of game you want?");
+			Log.info();
+			Log.info("That was never happened");
+			System.exit(0);
+		}
+	}
+
 	public  void performTurn(int turns) throws WinnerWasCalled {
 		this.turnsCounter++;
 		if(turnsCounter  <= turns){
@@ -179,9 +196,11 @@ public class Main {
 		Log.info("Max pool on board");
 		properties.setMaxPool(scan.nextInt()); 
 		Board board = new Board(properties.getMaxPool());
+		board.checkBoard(properties.getMaxPool());
 		
 		Log.info("Max moves");
 		properties.setTurns(scan.nextInt());
+		board.chceckTurn(properties.getTurns());
 
 		Log.info("Get number of eye your dice");
 		properties.setEye(scan.nextInt());
