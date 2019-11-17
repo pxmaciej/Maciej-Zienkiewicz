@@ -112,13 +112,11 @@ public class Main {
 				 int k=scan.nextInt();
 			
 				for(int i=0; i<k; ++i) {
+					Log.info();
 					Log.info("Podaj Tytuł");
 					String 	title=scan.next();
-			
-
-					Log.info();
 					Log.info("Wprowadź Kategorie Książki");
-				 	String category = scan.nextLine();
+				 	String category = scan.next();
 					
 					library.addBook(new AddType(title,category));
 					}
