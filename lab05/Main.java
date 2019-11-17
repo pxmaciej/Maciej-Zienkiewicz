@@ -119,8 +119,8 @@ public class Main {
 			
 				for(int i=0; i<k; ++i) {
 					Log.info("Podaj Tytuł");
-					String 	title=scan.nextLine();
-					title=scan.nextLine();
+					String 	title=scan.next();
+			
 
 					Log.info();
 					Log.info("Wprowadź Kategorie Książki");
@@ -138,8 +138,8 @@ public class Main {
 			case 3:
 
 					Log.info("Wprowadź Kategorie Przeszukiwania");
-					 String	category=scan.nextLine();
-					 category=scan.nextLine();
+					 String	category=scan.next();
+					
 				
 			
 					for(Book book : library.getBooks()) {
