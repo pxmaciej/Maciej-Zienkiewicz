@@ -13,7 +13,6 @@ final class Library {
 	public ArrayList<Book> getBooks() {
 		return this.books;
 	}
-
 }
 
 abstract class Book {
@@ -31,7 +30,6 @@ abstract class Book {
 	}
 	
 	abstract public String getType();
-	
 
 }
 
@@ -44,7 +42,6 @@ class Novel extends Book {
 	public String getType() {
 		return this.type;
 	}
-
 }
 class TextBook extends Book {
 
@@ -66,7 +63,6 @@ class Comics extends Book {
 	public String getType() {
 		return this.type;
 	}
-
 }
 class AddType extends Book {
 	
@@ -78,7 +74,6 @@ class AddType extends Book {
 	public String getType(){
 		return this.type;
 	}
-
 }
 
 class Log {
@@ -90,7 +85,6 @@ class Log {
 	public static void info(String message) {
 		System.out.println(message);
 	}
-
 }
 
 
@@ -165,5 +159,4 @@ public class Main {
 		
 	*/
 	}
-
 }
