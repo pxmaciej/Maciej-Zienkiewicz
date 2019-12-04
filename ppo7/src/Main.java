@@ -49,6 +49,8 @@ public class Main {
             }
             Log.info();
             Log.info("There's " + parking.countCars() + " cars in the parking lot and money We have is: "+ parking.getCash()+"$");
+            Log.info("Is car "+ parking.getCars());
+            Log.info("Is bike "+ parking.getBike());
         }
     }
     

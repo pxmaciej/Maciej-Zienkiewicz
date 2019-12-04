@@ -9,6 +9,7 @@ import java.util.ArrayList;
 
 
 
+
 final public class ParkingLot {
     private String hours;
     private int cash;
@@ -19,7 +20,12 @@ final public class ParkingLot {
     private static String blackList [] = {"DLX 99999", "DLX 99998", "DLX 99997" , "DLX 99996" , "DLX 99995"};
     private int carsOnProperty = 0;
 
-    
+    public int getCars(){
+        return carsOnProperty;
+    }
+    public int getBike(){
+        return bike;
+    }
     public void setkTime(String hour){
        this.hours=hour;
     }
@@ -52,13 +58,28 @@ final public class ParkingLot {
                     return false;
                 }
             }
-
-            if(carsOnProperty<MAX_SIZE && checkBike() || entity.isPrivilaged()){
+            int bk = checkInstanceBike(entity);
+            switch (bk){
+            
+            case 0:
+             if(carsOnProperty<MAX_SIZE  || entity.isPrivilaged()){
             return entity.canEnter();
             }else{
                 Log.info("too much on property!! move on "+ entity.identify());
                 return false;
             }
+            case 1:
+            if(checkBike()){
+                return entity.canEnter();
+            }else{
+                Log.info("too much on property!! move on "+ entity.identify());
+                return false;
+            }
+            default : 
+            return false;
+            }
+
+        
     }
 
 
@@ -81,6 +102,14 @@ final public class ParkingLot {
 
         if(entity instanceof Bicycle){
             bike++;
+        }
+    }
+
+    public int checkInstanceBike(EntityInterface entity){
+        if(entity instanceof Bicycle){
+           return 1;
+        }else{
+            return 0;
         }
     }
 
