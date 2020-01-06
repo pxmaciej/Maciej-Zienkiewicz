@@ -8,7 +8,7 @@ public class Penguin extends Animal{
 
     @Override
     String[] getDiet() {
-        return new String[]{"water", "meat"}; //ryba to mieso!!!!
+        return new String[]{"water", "meats"}; //ryba to mieso!!!!
     }
 }
 

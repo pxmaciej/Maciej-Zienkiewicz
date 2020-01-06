@@ -1,6 +1,4 @@
-import Zoo.Animals.Elephant;
-import Zoo.Animals.Lion;
-import Zoo.Animals.Bear;
+import Zoo.Animals.*;
 import Zoo.Meats;
 import Zoo.Vegetables;
 import Zoo.Water;
@@ -19,7 +17,13 @@ public class Main {
         zoo.addAnimal(new Lion("Simba"))
             .addAnimal(new Lion("Mufasa"))
             .addAnimal(new Elephant("Dumbo"))
-            .addAnimal(new Bear("Borys"));
+            .addAnimal(new Bear("Borys"))
+            .addAnimal(new Dolphin("Grześ"))
+            .addAnimal(new Giraffe("Krzyś"))
+            .addAnimal(new Monkey("Janusz"))
+            .addAnimal(new Penguin("Kowalski"))
+            .addAnimal(new Porcupine("Walczak"))
+            .addAnimal(new Tiger("Wojtuś"));
 
         for(String hour : hours){
             if(hour=="10:00"){

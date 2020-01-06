@@ -8,7 +8,7 @@ public class Bear extends Animal {
 
     @Override
     String[] getDiet() {
-        return new String[]{"water","honey","meat"};
+        return new String[]{"water","honey","meats"};
     }
 
 }
