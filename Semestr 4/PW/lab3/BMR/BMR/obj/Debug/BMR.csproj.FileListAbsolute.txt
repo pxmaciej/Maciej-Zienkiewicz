@@ -1,0 +1,9 @@
+Y:\Semestr 4\PW lab\lab4\BMR\BMR\obj\Debug\BMR.csprojAssemblyReference.cache
+Y:\Semestr 4\PW lab\lab4\BMR\BMR\obj\Debug\BMR.Form1.resources
+Y:\Semestr 4\PW lab\lab4\BMR\BMR\obj\Debug\BMR.Properties.Resources.resources
+Y:\Semestr 4\PW lab\lab4\BMR\BMR\obj\Debug\BMR.csproj.GenerateResource.cache
+Y:\Semestr 4\PW lab\lab4\BMR\BMR\bin\Debug\BMR.exe.config
+Y:\Semestr 4\PW lab\lab4\BMR\BMR\bin\Debug\BMR.exe
+Y:\Semestr 4\PW lab\lab4\BMR\BMR\bin\Debug\BMR.pdb
+Y:\Semestr 4\PW lab\lab4\BMR\BMR\obj\Debug\BMR.exe
+Y:\Semestr 4\PW lab\lab4\BMR\BMR\obj\Debug\BMR.pdb

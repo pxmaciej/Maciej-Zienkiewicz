@@ -1,0 +1,85 @@
+Enable = False _loadingGameObject=-14804
+[6757] Timer PregameSequence start 21:04:40.293
+[6757] Timer SceneLoad_MatchScene start 21:04:40.293
+[6763] Applying Global Quality Level 0 - Low
+[6763] Timer SceneLoad_MatchScene end 21:04:40.395
+[6763] Timer MatchSceneManager_Init start 21:04:40.395
+[6763] Timer MatchSceneManager_Init end 21:04:40.397
+[6763] Timer None_to_WaitingForMatch_transition start 21:04:40.398
+[6763] Timer None_to_WaitingForMatch_transition_PreGameScene_Loaded start 21:04:40.399
+[6790] Applying Global Quality Level 0 - Low
+[6790] Timer None_to_WaitingForMatch_transition_PreGameScene_Loaded end 21:04:40.874
+[6791] Timer None_to_WaitingForMatch_transition_AlphaIn start 21:04:40.887
+[6823] Timer None_to_WaitingForMatch_transition_AlphaIn end 21:04:41.405
+[6823] Timer None_to_WaitingForMatch_transition_ExecuteBlock start 21:04:41.406
+[6824] Timer None_to_WaitingForMatch_transition_ExecuteBlock end 21:04:41.422
+[6824] Timer None_to_WaitingForMatch_transition end 21:04:41.422
+[6824] Timer WaitingForMatch start 21:04:41.422
+[6866] [UnityCrossThreadLogger]Queueing FD ping id: 55
+[7014] [UnityCrossThreadLogger]STATE CHANGED {"old":1,"new":2}
+[7014] [UnityCrossThreadLogger]Connecting to matchId 891860cd-6991-4838-8f7b-8b866901cfff
+[7014] [UnityCrossThreadLogger]STATE CHANGED {"old":2,"new":5}
+[7027] [UnityCrossThreadLogger]STATE CHANGED {"old":5,"new":7}
+[7031] Timer WaitingForMatch end 21:04:45.080
+[7031] Timer WaitingForMatch_to_MatchReady_transition start 21:04:45.080
+[7031] Timer WaitingForMatch_to_MatchReady_transition_ExecuteBlock start 21:04:45.080
+[7032] Timer WaitingForMatch_to_MatchReady_transition_Battlefield_Loaded start 21:04:45.133
+[7032] Timer WaitingForMatch_to_MatchReady_transition_DuelScene_Loaded start 21:04:45.133
+[7043] [UnityCrossThreadLogger]ConnectResp {
+  "type": "GREMessageType_ConnectResp",
+  "systemSeatIds": [
+    1
+  ],
+  "msgId": 2,
+  "connectResp": {
+    "status": "ConnectionStatus_Success",
+    "majorVer": 1,
+    "revisionVer": 1,
+    "buildVer": 12239,
+    "protoVer": "ProtoVersion_ManaPaymentDeprecated",
+    "settings": {
+      "stops": [
+        {
+          "stopType": "StopType_UpkeepStep",
+          "appliesTo": "SettingScope_Team",
+          "status": "SettingStatus_Clear"
+        },
+        {
+          "stopType": "StopType_UpkeepStep",
+          "appliesTo": "SettingScope_Opponents",
+          "status": "SettingStatus_Clear"
+        },
+        {
+          "stopType": "StopType_DrawStep",
+          "appliesTo": "SettingScope_Team",
+          "status": "SettingStatus_Clear"
+        },
+        {
+          "stopType": "StopType_DrawStep",
+          "appliesTo": "SettingScope_Opponents",
+          "status": "SettingStatus_Clear"
+        },
+        {
+          "stopType": "StopType_PrecombatMainPhase",
+          "appliesTo": "SettingScope_Team",
+          "status": "SettingStatus_Set"
+        },
+        {
+          "stopType": "StopType_PrecombatMainPhase",
+          "appliesTo": "SettingScope_Opponents",
+          "status": "SettingStatus_Clear"
+        },
+        {
+          "stopType": "StopType_BeginCombatStep",
+          "appliesTo": "SettingScope_Team",
+          "status": "SettingStatus_Set"
+        },
+        {
+          "stopType": "StopType_BeginCombatStep",
+          "appliesTo": "SettingScope_Opponents",
+          "status": "SettingStatus_Set"
+        },
+        {
+          "stopType": "StopType_DeclareAttackersStep",
+          "appliesTo": "SettingScope_Team",
+          "status": "SettingStatus

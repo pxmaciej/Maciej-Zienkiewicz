@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMR", "BMR.csproj", "{AB0E0AFC-9F7B-4E38-B495-E2A9388A9527}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB0E0AFC-9F7B-4E38-B495-E2A9388A9527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB0E0AFC-9F7B-4E38-B495-E2A9388A9527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB0E0AFC-9F7B-4E38-B495-E2A9388A9527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB0E0AFC-9F7B-4E38-B495-E2A9388A9527}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73F68FE6-9F82-4F98-BD99-BF0AA6B644E8}
+	EndGlobalSection
+EndGlobal
