@@ -15,9 +15,9 @@
 *.gz
 *.toc
 *.vrb
-
+*.*
 
 *.class
 
 /.idea
-/.vs
+vs
