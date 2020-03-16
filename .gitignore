@@ -15,6 +15,7 @@
 *.gz
 *.toc
 *.vrb
+*.vs
 
 *.class
 
