@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pesel", "Pesel\Pesel.csproj", "{54283A1F-9B5D-4761-9D80-6767F5D26E98}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PESEL", "PESEL.csproj", "{CFB9F678-9C62-45FB-BE0D-8D82851DC362}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{54283A1F-9B5D-4761-9D80-6767F5D26E98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{54283A1F-9B5D-4761-9D80-6767F5D26E98}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{54283A1F-9B5D-4761-9D80-6767F5D26E98}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{54283A1F-9B5D-4761-9D80-6767F5D26E98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFB9F678-9C62-45FB-BE0D-8D82851DC362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB9F678-9C62-45FB-BE0D-8D82851DC362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB9F678-9C62-45FB-BE0D-8D82851DC362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB9F678-9C62-45FB-BE0D-8D82851DC362}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {25BC7948-B5B0-4EE8-BADE-362D2D7A66EE}
+		SolutionGuid = {CBD33815-4E90-466C-BF1E-13E67A645498}
 	EndGlobalSection
 EndGlobal

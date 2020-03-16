@@ -1,0 +1,9 @@
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab3\PESEL\PESEL\obj\Debug\PESEL.csprojAssemblyReference.cache
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab3\PESEL\PESEL\obj\Debug\PESEL.Form1.resources
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab3\PESEL\PESEL\obj\Debug\PESEL.Properties.Resources.resources
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab3\PESEL\PESEL\obj\Debug\PESEL.csproj.GenerateResource.cache
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab3\PESEL\PESEL\bin\Debug\PESEL.exe.config
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab3\PESEL\PESEL\bin\Debug\PESEL.exe
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab3\PESEL\PESEL\bin\Debug\PESEL.pdb
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab3\PESEL\PESEL\obj\Debug\PESEL.exe
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab3\PESEL\PESEL\obj\Debug\PESEL.pdb

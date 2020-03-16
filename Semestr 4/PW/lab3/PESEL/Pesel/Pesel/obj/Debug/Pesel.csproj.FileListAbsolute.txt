@@ -1,9 +1,0 @@
-Y:\Semestr 4\PW lab\lab4\PESEL\Pesel\Pesel\bin\Debug\Pesel.exe.config
-Y:\Semestr 4\PW lab\lab4\PESEL\Pesel\Pesel\bin\Debug\Pesel.exe
-Y:\Semestr 4\PW lab\lab4\PESEL\Pesel\Pesel\bin\Debug\Pesel.pdb
-Y:\Semestr 4\PW lab\lab4\PESEL\Pesel\Pesel\obj\Debug\Pesel.Form1.resources
-Y:\Semestr 4\PW lab\lab4\PESEL\Pesel\Pesel\obj\Debug\Pesel.Properties.Resources.resources
-Y:\Semestr 4\PW lab\lab4\PESEL\Pesel\Pesel\obj\Debug\Pesel.csproj.GenerateResource.cache
-Y:\Semestr 4\PW lab\lab4\PESEL\Pesel\Pesel\obj\Debug\Pesel.exe
-Y:\Semestr 4\PW lab\lab4\PESEL\Pesel\Pesel\obj\Debug\Pesel.pdb
-Y:\Semestr 4\PW lab\lab4\PESEL\Pesel\Pesel\obj\Debug\Pesel.csprojAssemblyReference.cache
