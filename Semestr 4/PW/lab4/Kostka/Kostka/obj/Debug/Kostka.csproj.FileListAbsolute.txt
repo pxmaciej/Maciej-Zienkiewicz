@@ -1,0 +1,9 @@
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab4\Kostka\Kostka\bin\Debug\Kostka.exe.config
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab4\Kostka\Kostka\bin\Debug\Kostka.exe
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab4\Kostka\Kostka\bin\Debug\Kostka.pdb
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab4\Kostka\Kostka\obj\Debug\Kostka.csprojAssemblyReference.cache
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab4\Kostka\Kostka\obj\Debug\Kostka.Form1.resources
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab4\Kostka\Kostka\obj\Debug\Kostka.Properties.Resources.resources
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab4\Kostka\Kostka\obj\Debug\Kostka.csproj.GenerateResource.cache
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab4\Kostka\Kostka\obj\Debug\Kostka.exe
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab4\Kostka\Kostka\obj\Debug\Kostka.pdb

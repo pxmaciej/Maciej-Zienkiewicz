@@ -7,3 +7,12 @@ Y:\Semestr 4\GIT\PPO1-Maciej-Zienkiewicz\Semestr 4\PW\lab3\BMR\BMR\obj\x86\Debug
 Y:\Semestr 4\GIT\PPO1-Maciej-Zienkiewicz\Semestr 4\PW\lab3\BMR\BMR\obj\x86\Debug\BMR.csproj.GenerateResource.cache
 Y:\Semestr 4\GIT\PPO1-Maciej-Zienkiewicz\Semestr 4\PW\lab3\BMR\BMR\obj\x86\Debug\WindowsApplication.exe
 Y:\Semestr 4\GIT\PPO1-Maciej-Zienkiewicz\Semestr 4\PW\lab3\BMR\BMR\obj\x86\Debug\WindowsApplication.pdb
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab3\BMR\BMR\bin\Debug\WindowsApplication.exe.config
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab3\BMR\BMR\bin\Debug\WindowsApplication.exe
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab3\BMR\BMR\bin\Debug\WindowsApplication.pdb
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab3\BMR\BMR\obj\x86\Debug\BMR.csprojAssemblyReference.cache
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab3\BMR\BMR\obj\x86\Debug\BMR.Form1.resources
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab3\BMR\BMR\obj\x86\Debug\BMR.Properties.Resources.resources
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab3\BMR\BMR\obj\x86\Debug\BMR.csproj.GenerateResource.cache
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab3\BMR\BMR\obj\x86\Debug\WindowsApplication.exe
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab3\BMR\BMR\obj\x86\Debug\WindowsApplication.pdb

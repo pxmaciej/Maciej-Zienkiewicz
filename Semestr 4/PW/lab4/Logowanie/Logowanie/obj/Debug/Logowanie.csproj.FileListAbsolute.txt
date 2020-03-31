@@ -1,0 +1,9 @@
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab4\Logowanie\Logowanie\bin\Debug\Logowanie.exe.config
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab4\Logowanie\Logowanie\bin\Debug\Logowanie.exe
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab4\Logowanie\Logowanie\bin\Debug\Logowanie.pdb
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab4\Logowanie\Logowanie\obj\Debug\Logowanie.csprojAssemblyReference.cache
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab4\Logowanie\Logowanie\obj\Debug\Logowanie.Form1.resources
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab4\Logowanie\Logowanie\obj\Debug\Logowanie.Properties.Resources.resources
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab4\Logowanie\Logowanie\obj\Debug\Logowanie.csproj.GenerateResource.cache
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab4\Logowanie\Logowanie\obj\Debug\Logowanie.exe
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab4\Logowanie\Logowanie\obj\Debug\Logowanie.pdb
