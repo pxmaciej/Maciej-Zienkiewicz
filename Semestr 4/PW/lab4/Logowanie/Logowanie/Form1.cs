@@ -24,21 +24,21 @@ namespace Logowanie
 
         private void button1_Click(object sender, EventArgs e)
         {
-            String[] login = new string[2] {"user","user2" };    //pojemnik na login
-            String[] password = new string[2] {"user","user2" }; //pojemnik na haslo
-            Form2 f = new Form2(); //instanacja klasy form2 zamiast "f" napisz inna nazwe
-            String log = textBox1.Text; //pojemnij ktory przechowuje to co user wpisal jako login
-            String pass = textBox2.Text; //pojemnik ktory przechowuje to co user wpisal jako haslo
+            String[] login = new string[2] {"user","user2" };  
+            String[] password = new string[2] {"user","user2" };
+            Form2 f = new Form2(); 
+            String log = textBox1.Text; 
+            String pass = textBox2.Text; 
 
-            foreach (string tmplog in login ){ //tutaj zamiast forech wstaw petle for(int i=0; i<=1; i++)
-                // log == login[i];
+            foreach (string tmplog in login ){
+             
                 if (log == tmplog)
                 {
-                    foreach (string tmppass in password) //tutaj zamiast forech wstaw petle for (int i = 0; i <= 1; i++)
+                    foreach (string tmppass in password) 
                     {
-                        if (pass == tmppass) // tego ifa zachowaj jest dobrze
+                        if (pass == tmppass) 
                         {
-                            f.Show();// zamiast f napisz nazwe ta co zmieniles wyzej
+                            f.Show();
                         }
                     }
                 }
