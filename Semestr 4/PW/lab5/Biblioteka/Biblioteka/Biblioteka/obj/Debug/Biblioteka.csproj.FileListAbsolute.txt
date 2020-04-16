@@ -1,0 +1,17 @@
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab5\Biblioteka\Biblioteka\Biblioteka\bin\Debug\Biblioteka.exe.config
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab5\Biblioteka\Biblioteka\Biblioteka\bin\Debug\Biblioteka.exe
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab5\Biblioteka\Biblioteka\Biblioteka\bin\Debug\Biblioteka.pdb
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab5\Biblioteka\Biblioteka\Biblioteka\bin\Debug\MySql.Data.dll
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab5\Biblioteka\Biblioteka\Biblioteka\bin\Debug\Google.Protobuf.dll
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab5\Biblioteka\Biblioteka\Biblioteka\bin\Debug\BouncyCastle.Crypto.dll
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab5\Biblioteka\Biblioteka\Biblioteka\bin\Debug\Ubiety.Dns.Core.dll
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab5\Biblioteka\Biblioteka\Biblioteka\bin\Debug\Renci.SshNet.dll
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab5\Biblioteka\Biblioteka\Biblioteka\bin\Debug\MySql.Data.xml
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab5\Biblioteka\Biblioteka\Biblioteka\obj\Debug\Biblioteka.csprojAssemblyReference.cache
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab5\Biblioteka\Biblioteka\Biblioteka\obj\Debug\Biblioteka.Form1.resources
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab5\Biblioteka\Biblioteka\Biblioteka\obj\Debug\Biblioteka.Properties.Resources.resources
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab5\Biblioteka\Biblioteka\Biblioteka\obj\Debug\Biblioteka.csproj.GenerateResource.cache
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab5\Biblioteka\Biblioteka\Biblioteka\obj\Debug\Biblioteka.csproj.CoreCompileInputs.cache
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab5\Biblioteka\Biblioteka\Biblioteka\obj\Debug\Biblioteka.csproj.CopyComplete
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab5\Biblioteka\Biblioteka\Biblioteka\obj\Debug\Biblioteka.exe
+Y:\Semestr 4\GIT\Maciej-Zienkiewicz\Semestr 4\PW\lab5\Biblioteka\Biblioteka\Biblioteka\obj\Debug\Biblioteka.pdb
