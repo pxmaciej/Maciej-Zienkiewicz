@@ -1,0 +1,7 @@
+Y:\Semestr 4\PIPO\lab6.1\lab6_1\lab6_1\bin\Debug\lab6_1.exe.config
+Y:\Semestr 4\PIPO\lab6.1\lab6_1\lab6_1\bin\Debug\lab6_1.exe
+Y:\Semestr 4\PIPO\lab6.1\lab6_1\lab6_1\bin\Debug\lab6_1.pdb
+Y:\Semestr 4\PIPO\lab6.1\lab6_1\lab6_1\obj\Debug\lab6_1.csprojAssemblyReference.cache
+Y:\Semestr 4\PIPO\lab6.1\lab6_1\lab6_1\obj\Debug\lab6_1.csproj.CoreCompileInputs.cache
+Y:\Semestr 4\PIPO\lab6.1\lab6_1\lab6_1\obj\Debug\lab6_1.exe
+Y:\Semestr 4\PIPO\lab6.1\lab6_1\lab6_1\obj\Debug\lab6_1.pdb
